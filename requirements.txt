@@ -1,0 +1,12 @@
+# Core
+mujoco==3.1.6
+gymnasium[all]
+stable-baselines3[extra]
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+
+# Utilities
+imageio
+matplotlib
+numpy
