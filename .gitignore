@@ -4,4 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 experiments/logs/
 experiments/models/
+.env/
+models/
+.ipynb_checkpoints/
 
