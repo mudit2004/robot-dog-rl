@@ -1,0 +1,10 @@
+mujoco-env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.env
+*.egg-info/
+*.egg
+
