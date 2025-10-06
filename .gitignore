@@ -9,3 +9,14 @@ models/
 .ipynb_checkpoints/
 
 MJDATA.TXT
+
+__pycache__/
+*.pyc
+*.log
+*.webm
+experiments/logs/
+experiments/models/
+MJDATA.TXT
+MJMODEL.TXT
+.DS_Store
+
