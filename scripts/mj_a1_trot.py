@@ -13,8 +13,7 @@ from joint_control import joint_control
 from high_level_control import high_level_control
 
 flag_trajectory_generation = 0
-
-xml_path = '../mujoco_menagerie/unitree_a1/scene.xml' #xml file (assumes this is in the same folder as this file)
+xml_path = '../mujoco_menagerie/unitree_a1/a1_obstacles_scene.xml' #xml file (assumes this is in the same folder as this file)
 simend = 10 #simulation time
 print_camera_config = 0 #set to 1 to print camera config
                         #this is useful for initializing view of the model)
